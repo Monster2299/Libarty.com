@@ -1,0 +1,63 @@
+<div class="center btmspace-50">
+			    <a style="text-decoration:none;color:maroon;font-size:14px" href="#" target="blank">
+			  <h2 class="heading">MESSAGE FROM PRINCIPAL</h2>
+				</a><div class="one_quarter first" style="padding-right:30px"><a style="text-decoration:none;color:maroon;font-size:14px" href="#" target="blank">
+					<img src="images/Principal.jpg"><br>
+					</a><a style="text-decoration:none;color:maroon;font-size:14px" href="#" target="blank">
+				<b>	Dr. Ranjit Deka,</b><br> M.A., M.Ed.,M.Phil., Ph.D.<br>
+						Rector cum Principal
+				</a></div><a style="text-decoration:none;color:maroon;font-size:14px" href="#" target="blank">
+				</a><p align="justify"><a style="text-decoration:none;color:maroon;font-size:14px" href="#" target="blank">
+				    </a>
+					<a style="text-decoration:none;color:blue;font-size:13px" href="#" target="blank">
+					When we talk about Anundoram Borooah Academy of  late, we talk about  an unrivalled educational 
+					institution imparting quality education for all stages of learners and that echoes in our ears. 
+					It has, in its course of journey, established an identity in the society as the real path-finder 
+					to the teachers, students, guardians and others. Pathsala has shone bright in public opinion as 
+					“Educational Hub” for the successful implementation of the continued effort of Anundoram Borooah 
+					Academy. We sincerely believe that in order to keep the continuity of the positive elements in 
+					the society like peace, value-based concept, smooth development, unity etc., it is necessary to 
+					enrich the foundation of social awareness. Anundoram Borooah Academy always holds a healthy and 
+					inspiring view towards uplifting social environment. 
+				</a></p><a style="text-decoration:none;color:blue;font-size:13px" href="#" target="blank">
+				<p align="justify">
+					Bajali under Barpeta district reflects the cultural heritage 
+					and the selfless services of the &nbsp;patriots who, under the 
+					leadership of Mahatma Gandhi, demanded ‘Swaraj’ 
+					shaking off the shackles of the British rule. Bajali is a place
+					where inhabit people of various communities and professions 
+					like cultivators, labourers, sports persons, litterateurs etc. 
+					Anundoram Borooah Academy which is established after the great 
+					name of Anundoram Borooah – the legend of the intellectual 
+					millieu of Assam, is situated at Pathsala – the nerve 
+					centre 	of Bajali.
+				</p>
+				<p align="justify">
+					With a view to giving a practical turn to the teaching and 
+					learning in a most effective manner, Anundoram Borooah Academy 
+					is imparting education from Pre-Primary, Lower Primary, Upper
+					Primary, High School, Higher Secondary (Arts, Science and 
+					Commerce) to Degree level in various departments of Arts and 
+					Science streams. Our students are shining in various reputed 
+					institutions like IITs, Medical Colleges, Engineering Colleges
+					etc. Our students have already shown their talents by bringing 
+					laurels from various National level Colleges and Universities 
+					of high repute. In fact, this institution is running at par 
+					along the path of  the scholarly grandeur of Anundoram Borooah
+					to occupy a high place of honour in the educational field of 
+					the country.
+				</p>
+				<p align="justify">
+					The Academy keeps in record the hurdles experienced in 
+					executing its honest and ambitious plans to guide the young 
+					learners and feels the same soluble with the active 
+					co-operation of the learners as well as the guardians. The 
+					practical and scientific basis of the teaching pedagogy of the 
+					Academy will assuredly yield fruitful crop with the learners, 
+					teachers and guardians partaking the spirit acknowledged. 
+					Anundoram Borooah Academy belongs to you, to us all and sundry. 
+					Let the enlightenment of Anundoram Borooah Academy ever kindle 
+					the light in you and all.
+				</p>
+			
+			</a></div>
